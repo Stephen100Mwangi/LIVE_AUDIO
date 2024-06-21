@@ -1,0 +1,1 @@
+This is a web application that simulates Twitter spaces, allowing users to login and join a room where they can communicate. Users are only able to communicate if allowed access by the room owner. The web app also allows mute and unmute options.
